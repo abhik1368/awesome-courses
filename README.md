@@ -297,7 +297,7 @@ Courses
 -------
 
 ### Misc
-
+- INFO - I590 (http://dsdht.wikispaces.com/) Data Science for Drug Discovery Health and Translational Medicine. Indiana University Bloomington
 - [CIS 581](https://alliance.seas.upenn.edu/~cis581/wiki/index.php?title=CIS_581:_Computer_Vision_%26_Computational_Photography) **Computer Vision and Computational Photography** *University of Pennsylvania* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" />
 	- An introductory course in computer vision and computational photography focusing on four topics: image features, image morphing, shape matching, and image search.
 	- [Lectures](https://alliance.seas.upenn.edu/~cis581/wiki/index.php?title=Schedule)
